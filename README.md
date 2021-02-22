@@ -5,14 +5,14 @@ Projeto POO 2020.1
 Sistema PIX de transferencias
 
 Linguagens ultilizadas :
-Java
-Javascript 
+Java /
+Javascript /
 HTML
 
 
 Tecnologias ultilzadas :
-MongoDB
-SpringBoot
+MongoDB /
+SpringBoot /
 ReactJS
 
 Como rodar a aplicação: 
